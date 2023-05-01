@@ -1,0 +1,10 @@
+.disable {
+  filter: grayscale(1) brightness(0.8);
+}
+
+.stepIcon {
+  height: 6px;
+  width: 6px;
+  background-color: var(--primaryColor);
+  display: block;
+}

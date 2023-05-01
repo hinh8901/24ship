@@ -1,0 +1,21 @@
+.cover {
+  max-height: 68vh;
+  aspect-ratio: 2 / 1;
+}
+
+.avatar {
+  height: 16rem;
+  width: 16rem;
+  border: solid white 0.3rem;
+  top: 100%;
+  transform: translateY(-66%);
+  left: 5%;
+  background: url("../../../public/images/24ship.webp") white;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.headerPadding {
+  height: 5rem;
+}
